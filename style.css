@@ -24,6 +24,8 @@ h1 {
 }
  .rhs {
     text-align: right;
+    background-color: bisque;
+    padding: 20px;
  }
 .footer {
     left: 0;
